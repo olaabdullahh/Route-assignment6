@@ -360,6 +360,15 @@ footer .container{
 }
 
 
+@media screen  and (max-width: 760px) {
+  .home h1 {
+    font-size: 3rem;
+    letter-spacing: 2px;
+  }
+  .home span{
+    font-size: 1.5rem;
+  }
+}
 
 @media screen and (max-width: 992px) {
   .navbar-nav li a:hover::after,
